@@ -1,0 +1,67 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.f5b64ef6cbbb8d106d4fafc6f3b4cf30.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.e1063e8b99f495dfb451e4eb4ef843a4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.0aff1a56a1950f0ec54c48e49bf2fce9.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.cce625f7dac56eede7943d4c0f8c6d44.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_64x64.df428e3abd55395f40bfe799c1e687bc.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_32x32.5baf26b91e1e0ce9f8727ec071f2193a.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.9fe9a72e36a0fb1bf1743ac781fce5c1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_152x152.fe346b33d8bf1a214f5750a87e231a41.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_167x167.3ccd0ec52cf09ef36345847e78ccb105.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_180x180.5402b3298bb0f3d8132045b631a20319.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_120x120.68b5a1e1b5d618c28c611bad44f4a6dd.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    }
+  ],
+  "name": "Funny atlas",
+  "short_name": "FA",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Funny atlas is here!",
+  "background_color": "#ffffff",
+  "theme_color": "#2196F3"
+}
